@@ -1,11 +1,35 @@
 {
   "name": "dsh-openviking-ui",
   "version": "1.0.0",
-  "private": true,
   "description": "Cloud-service settings and live write status for the OpenViking memory plugin in DeepSeek Harness.",
+  "license": "MIT",
+  "author": "JinPeng",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2378415/dsh-openviking-ui.git"
+  },
+  "homepage": "https://github.com/2378415/dsh-openviking-ui#readme",
+  "bugs": {
+    "url": "https://github.com/2378415/dsh-openviking-ui/issues"
+  },
   "type": "module",
   "main": "index.js",
   "icon": "./icon.svg",
+  "engines": {
+    "dsh": ">=0.2.1-rc.2 <1.0.0-0"
+  },
+  "keywords": [
+    "deepseek-harness",
+    "dsh",
+    "dsh-plugin",
+    "openviking",
+    "memory",
+    "sidebar",
+    "web-ui"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
   "exports": {
     ".": "./index.js",
     "./client": "./client.js",
@@ -19,7 +43,8 @@
     "cordis.patch.yml",
     "locale/*.json",
     "icon.svg",
-    "README.md"
+    "README.md",
+    "MARKET.md"
   ],
   "dsh": {
     "bundle": {
