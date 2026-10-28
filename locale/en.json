@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "OpenViking Cloud Service",
+    "description": "Configure the OpenViking memory plugin's server and identity, and see at the end of every turn whether the conversation was written to OpenViking."
+  }
+}

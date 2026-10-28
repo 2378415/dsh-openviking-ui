@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="OpenViking cloud service">
+  <defs>
+    <linearGradient id="ovui-sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2f6fed"/>
+      <stop offset="1" stop-color="#1a3fa8"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="60" height="60" rx="14" fill="url(#ovui-sky)"/>
+  <path d="M20 40.5h23.5a7.5 7.5 0 0 0 1.1-14.92A11.5 11.5 0 0 0 23.2 28.1 6.25 6.25 0 0 0 20 40.5Z"
+        fill="#ffffff" fill-opacity="0.94"/>
+  <path d="M22.5 47.5c5.2 4.4 12.9 4.4 18.1 0" fill="none" stroke="#a9c2ff" stroke-width="2.4"
+        stroke-linecap="round" stroke-dasharray="1.5 4.5"/>
+  <circle cx="46.5" cy="45.5" r="5.5" fill="#38d39f"/>
+  <path d="m44.2 45.6 1.7 1.8 3.2-3.4" fill="none" stroke="#0d2a4a" stroke-width="1.7"
+        stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

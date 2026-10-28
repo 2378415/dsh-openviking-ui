@@ -1,0 +1,6 @@
+# dsh-openviking-ui bundle patch: one host row over the Web/Desktop profile.
+# The row only activates where a web server exists; every other capability it
+# uses (openvikingMemory, configEditor, tools) is injected softly.
+- insert:
+    - id: openviking-ui
+      name: 'dsh-openviking-ui'

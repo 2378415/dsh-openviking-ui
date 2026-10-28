@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "OpenViking 云服务",
+    "description": "为 OpenViking 记忆插件设置云服务地址与身份，并在每轮对话结尾、侧栏与设置页显示对话是否已写入 OpenViking。"
+  }
+}
