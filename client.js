@@ -1320,7 +1320,7 @@ window.__ModuleLoader__.load({
 .ovui-write-text{color:var(--dsw-alias-label-primary,#c9d1d9)}
 .ovui-write-id{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:11px;opacity:.65}
 .ovui-summary{display:flex;align-items:center;gap:6px;font-size:12px;color:var(--dsw-alias-label-secondary,#8b949e)}
-.ovui-card-wrap{display:flex;flex-direction:column;gap:6px;width:100%;box-sizing:border-box;min-width:148px;cursor:pointer;border:1px solid var(--dsw-alias-border-l1,rgba(127,127,127,.28));border-radius:12px;padding:8px 10px;background:var(--dsw-alias-bg-layer-1,rgba(127,127,127,.06))}
+.ovui-card-wrap{display:flex;flex-direction:column;gap:6px;width:100%;box-sizing:border-box;min-width:148px;margin-top:4px;cursor:pointer;border:1px solid var(--dsw-alias-border-l1,rgba(127,127,127,.28));border-radius:12px;padding:8px 10px;background:var(--dsw-alias-bg-layer-1,rgba(127,127,127,.06))}
 .ovui-card-wrap:hover,.ovui-card-wrap:focus-visible{border-color:var(--dsw-alias-border-l2,rgba(127,127,127,.45));outline:none}
 .ovui-card{display:flex;flex-direction:column;gap:6px;width:100%;box-sizing:border-box;min-width:0}
 .ovui-card-row{display:flex;align-items:baseline;justify-content:space-between;gap:8px;min-width:0}
@@ -1334,7 +1334,7 @@ window.__ModuleLoader__.load({
 .ovui-foot-left{display:inline-flex;align-items:center;gap:5px;min-width:0}
 .ovui-foot-label{font-size:11px;color:var(--dsw-alias-label-secondary,#8b949e);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .ovui-foot-time{font-size:11px;color:var(--dsw-alias-label-tertiary,#8b93a1);white-space:nowrap;font-variant-numeric:tabular-nums}
-.ovui-slim-wrap{display:flex;align-items:center;justify-content:center;cursor:pointer;border-radius:10px;padding:6px;min-width:0}
+.ovui-slim-wrap{display:flex;align-items:center;justify-content:center;cursor:pointer;border-radius:10px;padding:6px;min-width:0;margin-top:4px}
 .ovui-slim{display:inline-flex;align-items:center;gap:4px}
 .ovui-slim-count{font-size:11px;font-weight:600;color:var(--dsw-alias-label-primary,#c9d1d9);font-variant-numeric:tabular-nums}
 .ovui-kv{display:flex;justify-content:space-between;gap:10px;font-size:12px;line-height:18px;color:var(--dsw-alias-label-secondary,#8b949e);padding:2px 0}
